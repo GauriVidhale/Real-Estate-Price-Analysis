@@ -129,3 +129,7 @@ b. Seaborn
 
 - Data reflects fair market conditions
 - No major economic fluctuations during the period
+
+## Conclusion
+
+This project uses Python, Pandas, and data visualization to analyze real estate data, explore property price trends, and identify factors influencing property prices. It strengthened my data analysis skills and understanding of data-driven decision-making.
